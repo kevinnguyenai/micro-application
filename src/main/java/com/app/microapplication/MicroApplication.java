@@ -8,12 +8,14 @@ import org.springframework.boot.ApplicationRunner;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.bind.annotation.RequestMethod;
+import org.springframework.web.bind.annotation.RequestParam;
+import org.springframework.http.HttpStatus;
+import org.springframework.http.ResponseEntity;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 @SpringBootApplication
-@RestController
 public class MicroApplication implements ApplicationRunner {
 	
 	private static Logger LOGGER = LoggerFactory.getLogger(MicroApplication.class);
@@ -24,17 +26,8 @@ public class MicroApplication implements ApplicationRunner {
 	
 	@Override
 	public void run(ApplicationArguments arg0) throws Exception {
-		System.out.println("Hello ApplicationRunner");
+		LOGGER.info("sample springboot application");
 	}
-	
-	@RequestMapping(value="/name", method=RequestMethod.GET)
-	public String name() throws Exception {
-		LOGGER.info("This is information");
-		LOGGER.debug("This is debug");
-		LOGGER.error("This is error");		
-		return("simple GET METHOD ");
-	}
-	
-
+			
 	
 }
