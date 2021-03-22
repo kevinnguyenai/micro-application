@@ -21,3 +21,46 @@
 2021-03-22 14:12:51 [restartedMain] INFO  c.a.m.MicroApplication - The following profiles are active: dev
 2021-03-22 14:12:56 [restartedMain] INFO  c.a.m.MicroApplication - Started MicroApplication in 6.138 seconds (JVM running for 9.213)
 2021-03-22 14:12:56 [restartedMain] INFO  c.a.m.MicroApplication - sample springboot application
+2021-03-22 14:33:03 [restartedMain] INFO  c.a.m.MicroApplication - Starting MicroApplication using Java 1.8.0_131 on W015411015 with PID 37900 (C:\Users\tuanna47\Documents\workspaces\spring-ide-w-git-maven-sts\micro-application\target\classes started by tuanna47 in C:\Users\tuanna47\Documents\workspaces\spring-ide-w-git-maven-sts\micro-application)
+2021-03-22 14:33:03 [restartedMain] DEBUG c.a.m.MicroApplication - Running with Spring Boot v2.4.4, Spring v5.3.5
+2021-03-22 14:33:03 [restartedMain] INFO  c.a.m.MicroApplication - The following profiles are active: dev
+2021-03-22 14:33:09 [restartedMain] INFO  c.a.m.MicroApplication - Started MicroApplication in 6.404 seconds (JVM running for 9.938)
+2021-03-22 14:33:09 [restartedMain] INFO  c.a.m.MicroApplication - sample springboot application
+2021-03-22 14:33:27 [restartedMain] INFO  c.a.m.MicroApplication - Starting MicroApplication using Java 1.8.0_131 on W015411015 with PID 29656 (C:\Users\tuanna47\Documents\workspaces\spring-ide-w-git-maven-sts\micro-application\target\classes started by tuanna47 in C:\Users\tuanna47\Documents\workspaces\spring-ide-w-git-maven-sts\micro-application)
+2021-03-22 14:33:27 [restartedMain] DEBUG c.a.m.MicroApplication - Running with Spring Boot v2.4.4, Spring v5.3.5
+2021-03-22 14:33:27 [restartedMain] INFO  c.a.m.MicroApplication - The following profiles are active: dev
+2021-03-22 14:33:33 [restartedMain] INFO  c.a.m.MicroApplication - Started MicroApplication in 7.466 seconds (JVM running for 11.426)
+2021-03-22 14:33:33 [restartedMain] INFO  c.a.m.MicroApplication - sample springboot application
+2021-03-22 14:39:02 [restartedMain] INFO  c.a.m.MicroApplication - Starting MicroApplication using Java 1.8.0_131 on W015411015 with PID 29656 (C:\Users\tuanna47\Documents\workspaces\spring-ide-w-git-maven-sts\micro-application\target\classes started by tuanna47 in C:\Users\tuanna47\Documents\workspaces\spring-ide-w-git-maven-sts\micro-application)
+2021-03-22 14:39:02 [restartedMain] DEBUG c.a.m.MicroApplication - Running with Spring Boot v2.4.4, Spring v5.3.5
+2021-03-22 14:39:02 [restartedMain] INFO  c.a.m.MicroApplication - The following profiles are active: dev
+2021-03-22 14:39:04 [restartedMain] INFO  c.a.m.MicroApplication - Started MicroApplication in 1.733 seconds (JVM running for 341.787)
+2021-03-22 14:39:04 [restartedMain] INFO  c.a.m.MicroApplication - sample springboot application
+2021-03-22 14:39:20 [restartedMain] INFO  c.a.m.MicroApplication - Starting MicroApplication using Java 1.8.0_131 on W015411015 with PID 29656 (C:\Users\tuanna47\Documents\workspaces\spring-ide-w-git-maven-sts\micro-application\target\classes started by tuanna47 in C:\Users\tuanna47\Documents\workspaces\spring-ide-w-git-maven-sts\micro-application)
+2021-03-22 14:39:20 [restartedMain] DEBUG c.a.m.MicroApplication - Running with Spring Boot v2.4.4, Spring v5.3.5
+2021-03-22 14:39:20 [restartedMain] INFO  c.a.m.MicroApplication - The following profiles are active: dev
+2021-03-22 14:39:21 [restartedMain] INFO  c.a.m.MicroApplication - Started MicroApplication in 1.231 seconds (JVM running for 359.055)
+2021-03-22 14:39:21 [restartedMain] INFO  c.a.m.MicroApplication - sample springboot application
+2021-03-22 14:40:12 [restartedMain] INFO  c.a.m.MicroApplication - Starting MicroApplication using Java 1.8.0_131 on W015411015 with PID 29656 (C:\Users\tuanna47\Documents\workspaces\spring-ide-w-git-maven-sts\micro-application\target\classes started by tuanna47 in C:\Users\tuanna47\Documents\workspaces\spring-ide-w-git-maven-sts\micro-application)
+2021-03-22 14:40:12 [restartedMain] DEBUG c.a.m.MicroApplication - Running with Spring Boot v2.4.4, Spring v5.3.5
+2021-03-22 14:40:12 [restartedMain] INFO  c.a.m.MicroApplication - The following profiles are active: dev
+2021-03-22 14:40:13 [restartedMain] INFO  c.a.m.MicroApplication - Started MicroApplication in 1.66 seconds (JVM running for 411.406)
+2021-03-22 14:40:13 [restartedMain] INFO  c.a.m.MicroApplication - sample springboot application
+2021-03-22 14:45:10 [restartedMain] INFO  c.a.m.MicroApplication - Starting MicroApplication using Java 1.8.0_131 on W015411015 with PID 29656 (C:\Users\tuanna47\Documents\workspaces\spring-ide-w-git-maven-sts\micro-application\target\classes started by tuanna47 in C:\Users\tuanna47\Documents\workspaces\spring-ide-w-git-maven-sts\micro-application)
+2021-03-22 14:45:10 [restartedMain] DEBUG c.a.m.MicroApplication - Running with Spring Boot v2.4.4, Spring v5.3.5
+2021-03-22 14:45:10 [restartedMain] INFO  c.a.m.MicroApplication - The following profiles are active: dev
+2021-03-22 14:45:11 [restartedMain] INFO  c.a.m.MicroApplication - Started MicroApplication in 1.421 seconds (JVM running for 709.198)
+2021-03-22 14:45:11 [restartedMain] INFO  c.a.m.MicroApplication - sample springboot application
+2021-03-22 14:51:22 [restartedMain] INFO  c.a.m.MicroApplication - Starting MicroApplication using Java 1.8.0_131 on W015411015 with PID 29656 (C:\Users\tuanna47\Documents\workspaces\spring-ide-w-git-maven-sts\micro-application\target\classes started by tuanna47 in C:\Users\tuanna47\Documents\workspaces\spring-ide-w-git-maven-sts\micro-application)
+2021-03-22 14:51:22 [restartedMain] DEBUG c.a.m.MicroApplication - Running with Spring Boot v2.4.4, Spring v5.3.5
+2021-03-22 14:51:22 [restartedMain] INFO  c.a.m.MicroApplication - The following profiles are active: dev
+2021-03-22 14:51:23 [restartedMain] INFO  c.a.m.MicroApplication - Started MicroApplication in 1.747 seconds (JVM running for 1081.427)
+2021-03-22 14:51:23 [restartedMain] INFO  c.a.m.MicroApplication - sample springboot application
+2021-03-22 14:53:23 [restartedMain] INFO  c.a.m.MicroApplication - Starting MicroApplication using Java 1.8.0_131 on W015411015 with PID 29656 (C:\Users\tuanna47\Documents\workspaces\spring-ide-w-git-maven-sts\micro-application\target\classes started by tuanna47 in C:\Users\tuanna47\Documents\workspaces\spring-ide-w-git-maven-sts\micro-application)
+2021-03-22 14:53:23 [restartedMain] DEBUG c.a.m.MicroApplication - Running with Spring Boot v2.4.4, Spring v5.3.5
+2021-03-22 14:53:23 [restartedMain] INFO  c.a.m.MicroApplication - The following profiles are active: dev
+2021-03-22 14:53:25 [restartedMain] INFO  c.a.m.MicroApplication - Started MicroApplication in 1.491 seconds (JVM running for 1202.738)
+2021-03-22 14:53:25 [restartedMain] INFO  c.a.m.MicroApplication - sample springboot application
+2021-03-22 14:54:58 [restartedMain] INFO  c.a.m.MicroApplication - Starting MicroApplication using Java 1.8.0_131 on W015411015 with PID 29656 (C:\Users\tuanna47\Documents\workspaces\spring-ide-w-git-maven-sts\micro-application\target\classes started by tuanna47 in C:\Users\tuanna47\Documents\workspaces\spring-ide-w-git-maven-sts\micro-application)
+2021-03-22 14:54:58 [restartedMain] DEBUG c.a.m.MicroApplication - Running with Spring Boot v2.4.4, Spring v5.3.5
+2021-03-22 14:54:58 [restartedMain] INFO  c.a.m.MicroApplication - The following profiles are active: dev
